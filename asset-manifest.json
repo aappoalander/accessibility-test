@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/accessibility-test/static/css/main.75b97b44.chunk.css",
+    "main.js": "/accessibility-test/static/js/main.476fb4d0.chunk.js",
+    "main.js.map": "/accessibility-test/static/js/main.476fb4d0.chunk.js.map",
+    "runtime-main.js": "/accessibility-test/static/js/runtime-main.3f3b3862.js",
+    "runtime-main.js.map": "/accessibility-test/static/js/runtime-main.3f3b3862.js.map",
+    "static/css/2.a1eb177a.chunk.css": "/accessibility-test/static/css/2.a1eb177a.chunk.css",
+    "static/js/2.b8591575.chunk.js": "/accessibility-test/static/js/2.b8591575.chunk.js",
+    "static/js/2.b8591575.chunk.js.map": "/accessibility-test/static/js/2.b8591575.chunk.js.map",
+    "index.html": "/accessibility-test/index.html",
+    "precache-manifest.be952b9080e83b64955dba6cd1390f36.js": "/accessibility-test/precache-manifest.be952b9080e83b64955dba6cd1390f36.js",
+    "service-worker.js": "/accessibility-test/service-worker.js",
+    "static/css/2.a1eb177a.chunk.css.map": "/accessibility-test/static/css/2.a1eb177a.chunk.css.map",
+    "static/css/main.75b97b44.chunk.css.map": "/accessibility-test/static/css/main.75b97b44.chunk.css.map",
+    "static/js/2.b8591575.chunk.js.LICENSE.txt": "/accessibility-test/static/js/2.b8591575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f3b3862.js",
+    "static/css/2.a1eb177a.chunk.css",
+    "static/js/2.b8591575.chunk.js",
+    "static/css/main.75b97b44.chunk.css",
+    "static/js/main.476fb4d0.chunk.js"
+  ]
+}
